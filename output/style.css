@@ -1,0 +1,27 @@
+.jumbotron.mb-3.team-heading {
+    background-color: #550000;
+    color: white;
+    text-shadow: 2px 2px 3px #140000;
+    border-radius: 0px;
+}
+
+.jumbotron.mb-3.team-heading h1 {
+    font-size: 60px;
+}
+
+.card.employee-card {
+    margin-bottom: 15px;
+    box-shadow: 2px 2px 3px #ccc;
+    border: none;
+}
+
+.card-header {
+    background-color: #550000;
+    color: white;
+    text-shadow: 2px 2px 3px #140000;
+    border: none;
+}
+
+.card-body {
+    background-color: #E3E4E8;
+}
