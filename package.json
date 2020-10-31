@@ -1,0 +1,26 @@
+{
+  "name": "template_engine",
+  "version": "1.0.0",
+  "description": "app to create a webpage of your development team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codymu45/template_engine.git"
+  },
+  "author": "Cody Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codymu45/template_engine/issues"
+  },
+  "homepage": "https://github.com/codymu45/template_engine#readme"
+}
