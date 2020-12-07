@@ -15,6 +15,8 @@
   * [Run](#Run)
   
   * [Questions](#questions)
+
+  ![Screenshot](/images/snap.jpg "Screenshot")
   
   # Installs
   
